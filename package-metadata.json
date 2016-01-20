@@ -1,0 +1,1 @@
+{"dependencies": [], "description": "jsfmt plugin for Sublime Text", "version": "1.0.9", "platforms": ["*"], "url": "https://github.com/ionutvmi/sublime-jsfmt", "sublime_text": "*"}
